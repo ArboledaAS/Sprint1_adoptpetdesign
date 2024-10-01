@@ -1,0 +1,57 @@
+{
+    "usuarios":
+    [
+        {
+            "id": 1,
+            "name": "andres arboleda",
+            "email": "andres@gmail.com",
+            "password": "1234",
+            "phone": "123-456-7890"
+        },
+    
+        {
+            "id": 2,
+            "name": "jose perez",
+            "email": "jose@gmail.com",
+            "password": "7890",
+            "phone": "987-654-3210"
+        },
+    
+        {
+            "id": 3,
+            "name": "maria garcia",
+            "email": "maria@gmail.com",
+            "password": "5678",
+            "phone": "555-555-5555"
+        }
+    ],
+
+    "mascotas":
+    [
+        {
+            "id": 1,
+            "name": "perro",
+            "raza": "golden retriever",
+            "sexo": "macho",
+            "edad": 5,
+            "descripcion": "un perro muy bonito"
+        },
+        {
+            "id": 2,
+            "name": "gato",
+            "raza": "perro",
+            "sexo": "hembra",
+            "edad": 3,
+            "descripcion": "un gato muy feliz"
+        },
+        {
+            "id": 3,
+            "name": "canario",
+            "raza": "canario",
+            "sexo": "hembra",
+            "edad": 1,
+            "descripcion": "un canario muy cariñoso"
+        }
+    ]
+    
+}

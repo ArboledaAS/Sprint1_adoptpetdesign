@@ -1,0 +1,36 @@
+#contenedor{
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#formDatos{
+    border-radius: 30px;
+    background: #FED45B;
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#formDatos input{
+    background-color: transparent;
+    border-radius: 20px;
+    width: 80%;
+    height: 25px;
+    margin: 10px;
+}
+
+#formDatos button{
+    width: 60%;
+    height: 45px;
+    border-radius: 40px;
+    margin: 20px 0;
+    background: #fff;
+    border: none;
+}

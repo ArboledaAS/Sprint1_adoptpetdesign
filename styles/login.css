@@ -1,0 +1,43 @@
+body{
+    background: #E5E5E5;
+}
+#contenedor{
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#datos{
+    border-radius: 30px;
+    background: #FED45B;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#datos input{
+    background-color: transparent;
+    border-radius: 20px;
+    width: 80%;
+}
+
+#datos a{
+    
+    color: #867e7e;
+    text-decoration: none;
+}
+
+#datos button{
+    width: 60%;
+    height: 45px;
+    border-radius: 40px;
+    margin: 20px 0;
+    background: #fff;
+    border: none;
+}
